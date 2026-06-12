@@ -1,0 +1,6 @@
+{
+  "name": "Solenz Müzik",
+  "description": "En sevdiğiniz şarkıları arayın, çevrim içi dinleyin ve daha sonra internetsiz dinlemek üzere cihazınıza indirin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
